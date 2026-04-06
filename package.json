@@ -5,7 +5,7 @@
   "main": "main.js",
   "type": "commonjs",
   "dependencies": {
-    "@maxhub/max-bot-api": "^0.2.1",
+    "@maxhub/max-bot-api": "^0.2.2",
     "axios": "^1.12.2",
     "camelcase": "^5.3.1",
     "debug": "^4.4.3",
